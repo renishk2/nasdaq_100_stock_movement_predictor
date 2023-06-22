@@ -1,0 +1,59 @@
+Implement the following accordingly 
+
+- Logistic Regression
+
+- Random Forest
+
+- Time Series Forecast (check out xgboost)
+
+- Create a streamlit web app! 
+
+Sources: 
+
+1. https://www.youtube.com/watch?v=OXwZtlcTiuk (Linear Regression and LSTM)
+
+2. https://www.youtube.com/watch?v=s3CnE2tqQdo (Streamlit Idea)
+
+3. https://www.youtube.com/watch?v=pryXhOgDY9A (time series)
+
+
+Looking at only top 10 Nasdaq 100 stocks 
+
+- AAPL (Apple)
+- MSFT (Microsoft)
+- GOOG (Google Class C)
+- GOOGL (Google Class A)
+- AMZN (Amazon)
+- TSLA (Tesla)
+- META 
+- NVDA (Nvidia)
+- PEP (Pepsi)
+- COST(Costco)
+
+
+
+Data Cleaning: 
+
+- Load Data
+- Shape 
+- Info 
+- Describe 
+- Null 
+- Duplicates 
+
+
+EDA: 
+- Convert Date column to datatime
+- Check the total number of datapoints for all individual stocks
+- Split the dataframe into group of stocks such as 'tech stocks' and save as CSV
+- Create a new column based on the closed column (shift) looking at prev close 
+- Look at the total number of days 
+- Distributions of all columns 
+- Plot visuals based on the closing price and date 
+
+
+Modelling: 
+- Logistic Regression
+- Time Series Forecast 
+- Random Forest (xgboost)
+
