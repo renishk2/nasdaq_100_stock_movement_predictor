@@ -71,3 +71,10 @@ svm
 random forest 
 
 ------
+
+
+Notes: 
+
+- Fix the code commenting and markdowns for all books 
+- Review the trading strategy part and explain how looking at diff between adj close from previous day and present day helps 
+- create a pipeline for log reg add the c values, penalty, solver to get a good score
