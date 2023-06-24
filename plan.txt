@@ -77,4 +77,25 @@ Notes:
 
 - Fix the code commenting and markdowns for all books 
 - Review the trading strategy part and explain how looking at diff between adj close from previous day and present day helps 
-- create a pipeline for log reg add the c values, penalty, solver to get a good score
+
+
+--- 
+
+Plan for Saturday:
+
+- Finish all the models 
+- Work on code commenting and markdowns
+
+Plan for Sunday: 
+
+(Morning)
+- Write the report 
+
+Afternoon (till 5pm)
+- Work on the presentation
+
+Evening
+- Table of Contents, Introduction, Conclusion for all books 
+- Work on code commenting and markdowns
+
+- GITHUB READ ME 
