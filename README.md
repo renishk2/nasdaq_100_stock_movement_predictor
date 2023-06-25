@@ -1,1 +1,1 @@
-# stocks_trading-ai
+# NASDAQ-100 Stocks Movement Predictor
