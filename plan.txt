@@ -84,6 +84,7 @@ Notes:
 Plan for Saturday:
 
 - Finish all the models 
+- add pca 
 - Work on code commenting and markdowns
 
 Plan for Sunday: 
@@ -99,3 +100,10 @@ Evening
 - Work on code commenting and markdowns
 
 - GITHUB READ ME 
+
+
+
+- Sample 5% 
+- Then check value counts for target column -- downsample
+- Change scale to minmax()
+- pipeline: max-iter to 50k, for scaling put both min max and standard
