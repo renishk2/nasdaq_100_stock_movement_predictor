@@ -38,4 +38,4 @@ In the current investigation we focused on classification and not regression whe
 
 ## For More Info:
 
-If you require more information, please contact the author. 
+If you require more information on the dataset or the project, please contact the author. 
