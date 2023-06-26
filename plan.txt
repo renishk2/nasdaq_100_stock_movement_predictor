@@ -108,3 +108,22 @@ Evening
 - Change scale to minmax()
 - pipeline: max-iter to 50k, for scaling put both min max and standard
 - boxplot in the eda section 
+
+
+What is left to do: 
+
+- Data Cleaning Notebook is done 
+- EDA - 1 Need to do intro, table of content and conclusion 
+- EDA - 2 Need to do intro, table of content and conclusion 
+- Modelling - 
+- Modelling Evaluation - 
+
+
+- Report 
+- Presentation
+
+
+Verify: 
+
+- Check all books again
+- complete readme file
